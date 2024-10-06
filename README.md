@@ -1,4 +1,4 @@
-# Camera Points ![Plugin Installs](http://img.shields.io/endpoint?url=https://i.pluginhub.info/shields/installs/plugin/Camera-Points)
+# Camera Points ![Plugin Installs](http://img.shields.io/endpoint?url=https://api.runelite.net/pluginhub/shields/installs/plugin/Camera-Points)
 
 This plugin allows you to save and load your camera zoom and/or a compass direction.<br>
 Since it is not allowed to have presets for camera yaw/pitch/position, only these two features are supported by this plugin.<br>
